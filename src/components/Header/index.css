@@ -1,0 +1,31 @@
+.navbar {
+  background-color: #212542;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #333;
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+}
+
+.con-edit {
+  display: flex;
+  color: #f4f7fa;
+}
+
+.navbar-brand img {
+  height: 40px;
+  width: 40px;
+}
+
+.navbar-light .navbar-brand:hover {
+  color: #0078d4;
+}
+
+body {
+  background-color: #f4f7fa;
+}
