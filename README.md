@@ -76,3 +76,11 @@ The objective of this project is to create a Task Tracker application that allow
 
 - **Filters**: Filter tasks by their status.
 - **Sorting**: Sort tasks by due date in ascending or descending order.
+
+---
+
+## Live Demo
+
+You can view the live version of the Task Tracker app here:
+
+[Task Tracker on Netlify](https://lively-chimera-66c9cf.netlify.app)
