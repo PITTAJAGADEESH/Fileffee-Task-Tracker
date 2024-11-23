@@ -72,7 +72,7 @@ The objective of this project is to create a Task Tracker application that allow
 
 ---
 
-## Bonus Features
+## Features
 
 - **Filters**: Filter tasks by their status.
 - **Sorting**: Sort tasks by due date in ascending or descending order.
